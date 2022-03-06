@@ -1,0 +1,18 @@
+.nav-logo{
+    height: 40px;
+}
+.img-banner{
+    height: 700px;
+    width: 100%;
+}
+.welcome-text{
+    position: absolute;
+    text-align: center;
+    left: 525px;
+    top: 100px;
+}
+.welcome{
+    color: white;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}

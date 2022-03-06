@@ -1,0 +1,136 @@
+{
+    "flights": [
+      {
+        "id": 1,
+        "flight_no": "AA1",
+        "flight_name": "SpiceJet",
+        "from_city": "Delhi",
+        "to_city": "Ahmedabad",
+        "date": "07/03/2022",
+        "time": "22:00",
+        "airport_name": "Indira Gandhi International Airport",
+        "price": "5000"
+      },
+      {
+        "id": 2,
+        "flight_no": "AB2",
+        "flight_name": "IndiGo",
+        "from_city": "Ahmedabad",
+        "to_city": "Kolkata",
+        "date": "08/03/2022",
+        "time": "03:00",
+        "airport_name": "Sardar Vallabhbhai Vatel International Airport",
+        "price": "4000"
+      },
+      {
+        "id": 3,
+        "flight_no": "AD4",
+        "flight_name": "IndiGo",
+        "from_city": "Kolkata",
+        "to_city": "Chennai",
+        "date": "08/03/2022",
+        "time": "05:00",
+        "airport_name": "Netaji Subhas Chandra Bose International",
+        "price": "10000"
+      },
+      {
+        "id": 4,
+        "flight_no": "DC5",
+        "flight_name": "IndiGo",
+        "from_city": "Ahmedabad",
+        "to_city": "Chennai",
+        "date": "09/03/2022",
+        "time": "20:00",
+        "airport_name": "Sardar Vallabhbhai Vatel International Airport",
+        "price": "12000"
+      },
+      {
+        "id": 5,
+        "flight_no": "DF3",
+        "flight_name": "SpiceJet",
+        "from_city": "Ranchi",
+        "to_city": "Hyderabad",
+        "date": "09/03/2022",
+        "time": "07:00",
+        "airport_name": "BIRSA MUNDA AIRPORT",
+        "price": "20000"
+      },
+      {
+        "id": 6,
+        "flight_no": "AZ8",
+        "flight_name": "IndiGo",
+        "from_city": "Delhi",
+        "to_city": "Hyderabad",
+        "date": "09/03/2022",
+        "time": "16:00",
+        "airport_name": "Indira Gandhi International Airport",
+        "price": "15000"
+      },
+      {
+        "id": 7,
+        "flight_no": "MK9",
+        "flight_name": "Indigo",
+        "from_city": "Surat",
+        "to_city": "Chennai",
+        "date": "08/03/2022",
+        "time": "19:25",
+        "airport_name": "Surat International Airport",
+        "price": "14000"
+      },
+      {
+        "id": 8,
+        "flight_no": "SR6",
+        "flight_name": "SpiceJet",
+        "from_city": "Chennai",
+        "to_city": "Delhi",
+        "date": "09/03/2022",
+        "time": "23:30",
+        "airport_name": "Madras International Meenambakkam Airport",
+        "price": "20000"
+      },
+      {
+        "id": 9,
+        "flight_no": "HJ2",
+        "flight_name": "Vistara",
+        "from_city": "Hyderabad",
+        "to_city": "Mumbai",
+        "date": "09/03/2022",
+        "time": "04:00",
+        "airport_name": "GMR Hyderabad International Airport",
+        "price": "8000"
+      },
+      {
+        "id": 10,
+        "flight_no": "AK1",
+        "flight_name": "Vistara",
+        "from_city": "Mumbai",
+        "to_city": "Delhi",
+        "date": "10/03/2022",
+        "time": "09:00",
+        "airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+        "price": "10000"
+      },
+      {
+        "id": 11,
+        "flight_no": "MX4",
+        "flight_name": "Indigo",
+        "from_city": "Mumbai",
+        "to_city": "Kolkata",
+        "date": "10/03/2022",
+        "time": "15:00",
+        "airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+        "price": "22000"
+      },
+      {
+        "id": 12,
+        "flight_no": "AS2",
+        "flight_name": "Spicejet",
+        "from_city": "Surat",
+        "to_city": "Kolkata",
+        "date": "09/03/2022",
+        "time": "17:00",
+        "airport_name": "Surat International Airport",
+        "price": "17000"
+      }
+    ]
+}
