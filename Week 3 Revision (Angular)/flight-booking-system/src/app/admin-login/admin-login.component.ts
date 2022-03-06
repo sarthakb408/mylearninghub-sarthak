@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class AdminLoginComponent implements OnInit {
 
   constructor() { }
-
+  myForm:any;
   ngOnInit(): void {
   }
 

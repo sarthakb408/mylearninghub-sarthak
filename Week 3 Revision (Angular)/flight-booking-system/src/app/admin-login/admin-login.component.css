@@ -1,0 +1,10 @@
+.nav-logo{
+    height: 40px;
+}
+.add-flight{
+    border: 1px solid black;
+    padding: 20px;
+    margin-top: 20px;
+    width: 500px;
+    margin-left: 550px;
+}
